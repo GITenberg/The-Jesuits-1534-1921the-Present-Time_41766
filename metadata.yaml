@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '40464'
     url: http://www.gutenberg.org/2009/agents/40464
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41766#The-Jesuits-1534-1921the-Present-Time
 gutenberg_issued: '2013-01-03'
 gutenberg_type: Text
 identifiers:
