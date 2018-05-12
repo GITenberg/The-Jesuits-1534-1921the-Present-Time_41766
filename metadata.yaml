@@ -1,0 +1,31 @@
+_repo: The-Jesuits-1534-1921the-Present-Time_41766
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41766-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Campbell, Thomas J. (Thomas Joseph)
+    aliases:
+    - Campbell, T. J. (Thomas Joseph)
+    - Campbell, Thomas Joseph
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '40464'
+    url: http://www.gutenberg.org/2009/agents/40464
+description: ''
+gutenberg_issued: '2013-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41766'
+  lccn: '22001391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesuits -- History'
+- !lcc 'BX'
+title: "The Jesuits, 1534-1921\r\nA History of the Society of Jesus from Its Foundation\
+  \ to the Present Time"
+url: http://www.gutenberg.org/ebooks/41766
